@@ -1,6 +1,10 @@
 # Security Onion Beats and Sysmon deployment files
 
-These zip files will help speed up the process for deploying both sysmon v13 with Olaf Hartong config.xml and winlogbeats. 
+These zip files will help speed up the process for deploying sysmon v13 (with Olaf Hartong config.xml) and winlogbeats 7.16.2 (with winlogbeat.yml). 
+
+https://github.com/olafhartong/sysmon-modular
+
+https://www.elastic.co/downloads/past-releases/winlogbeat-7-16-2
 
 Download both folders and extract all to see the contents.
 
