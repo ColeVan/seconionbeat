@@ -10,3 +10,4 @@ Download both folders and extract all to see the contents.
 
 The folder "seconion" can be placed in "C:\Windows\Temp" and executed with the following light-weight-agent-deployment.ps1 file.
 
+![Screenshot 2022-01-04 055843](https://user-images.githubusercontent.com/70167373/148050106-f2a45824-6b8a-44b8-b64d-c6955783c1ff.png)
