@@ -12,8 +12,17 @@ The folder "seconion" can be placed in "C:\Windows\Temp" and executed with the f
 
 The powershell script will install both sysmon and seconionbeat (aka "winlogbeats").
 
-Note: You can name the beat agent and yml file whatever you like. Make edit scripts with proper file location so that agents binaries install properly.
+Note: You can name the beat agent and yml file whatever you like. Make sure to edit scripts with proper file location and naming convnetion so that binaries install properly.
 
 ![Screenshot 2022-01-04 055843](https://user-images.githubusercontent.com/70167373/148050106-f2a45824-6b8a-44b8-b64d-c6955783c1ff.png)
 
+# light-weight-agent-deployment.ps1
+
 ![Screenshot 2022-01-04 060924](https://user-images.githubusercontent.com/70167373/148050464-6c5038e9-f888-4761-86ed-4f4084d4612a.png)
+
+
+# seconionbeat.yml
+
+Before installing, ensure you change the IP of the SIEM you will be sending windows event logs to in the yml file below.
+
+![Screenshot 2022-01-04 061335](https://user-images.githubusercontent.com/70167373/148050978-3e0afad5-3db8-4c72-a5f9-89690108ac6b.png)
