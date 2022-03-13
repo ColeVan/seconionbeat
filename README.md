@@ -1,6 +1,6 @@
 # Security Onion Beats and Sysmon deployment files
 
-This repo will help speed up the process for deploying sysmon v13 (with Olaf Hartong config.xml) and winlogbeats 7.16.2 (with winlogbeat.yml). 
+This repo will help speed up the process for deploying sysmon v13 (with Olaf Hartong config.xml) and winlogbeats 7.17.1 (with winlogbeat.yml). 
 
 https://github.com/olafhartong/sysmon-modular
 
